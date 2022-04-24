@@ -1,0 +1,9 @@
+admin (username / password)
+admin@mail.com / 12345
+
+teacher (username / password)
+teacher@mail.com / 12345
+
+student (username / password)
+stu1@mail.com / 12345
+stu2@test.com / 12345
